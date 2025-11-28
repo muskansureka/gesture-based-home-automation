@@ -1,0 +1,16 @@
+===== Gesture Recognition Accuracy Report =====
+Overall Accuracy: 93.22%
+Average Detection Time: 1.639 seconds
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      1.00      0.95        29
+           1       1.00      1.00      1.00        10
+           2       0.00      0.00      0.00         3
+           4       1.00      1.00      1.00         7
+           5       0.90      0.90      0.90        10
+
+    accuracy                           0.93        59
+   macro avg       0.76      0.78      0.77        59
+weighted avg       0.89      0.93      0.91        59
